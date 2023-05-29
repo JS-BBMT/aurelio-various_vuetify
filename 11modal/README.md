@@ -28,3 +28,9 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+<!-- Use node version 8.0.0
+nvm install 8.0.0
+nvm use 8.0.0
+pls check the nvm list for current correct node version
+npm install -->
